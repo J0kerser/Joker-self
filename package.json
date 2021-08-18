@@ -1,5 +1,5 @@
 {
-  "name": "XDevTeam",
+  "name": "Jokerser",
   "version": "1.0.0",
   "description": "Jangan diperjual belikan !",
   "main": "run.js",
@@ -43,15 +43,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdevteam404/xdev-self"
+    "url": "git+https://github.com/J0kerser/Joker-self"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "XDevTeam",
+  "author": "Jokerser",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xdevteam404"
+    "url": "https://github.com/J0kerser"
   },
-  "homepage": "https://github.com/xdevteam404"
+  "homepage": "https://github.com/J0kerser"
 }
