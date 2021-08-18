@@ -1,8 +1,8 @@
 exports.menu = (pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita) => {
-return`*╭─❒ 「 X - Dev Bot 」 ──────*
+return`*╭─❒ 「 Joker - Bot 」 ──────*
 *│*
 *│*⬡ *${ucapanWaktu} kak*
-*│*⬡ *Nama : ${pushname}*
+*│*⬡ *Name : ${pushname}*
 *│*⬡ *Tag     :* @${sender.split('@')[0]}
 *│*⬡ *WIB    : ${timeWib}*
 *│*⬡ *WIT    : ${timeWit}*
@@ -179,7 +179,7 @@ return`*╭─❒ 「 X - Dev Bot 」 ──────*
 
 ❒  *「 Thanks To : 」*  
 *│*
-*├  ▢  : Hexagonz*
+*├  ▢  : Jokerser*
 *├  ▢  : X - Far Dev*
 *├  ▢  : Arsky*
 *├  ▢  : Angga*
@@ -190,5 +190,5 @@ return`*╭─❒ 「 X - Dev Bot 」 ──────*
 *│*
 *└─────────────* 
 
-❏ *𝑿 - 𝑫𝒆𝒗 𝑻𝒆𝒂𝒎* ❏`
+❏ *Joker Ser OFc* ❏`
 }
