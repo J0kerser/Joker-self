@@ -68,9 +68,9 @@ let bancht = JSON.parse(fs.readFileSync('./database/banchat.json'))
 banChats = false
 offline = false
 targetpc = '0'
-ownerNumber = ["62895619083555@s.whatsapp.net","6287817533783@s.whatsapp.net","6285283427860@s.whatsapp.net","6282290559350@s.whatsapp.net","628983583288@s.whatsapp.net","628886234378@s.whatsapp.net"]
-fake = '𝑪𝑹𝑬𝑨𝑻𝑶𝑹 𝑩𝑶𝑻\n𝑿 - 𝑫𝒆𝒗 𝑻𝒆𝒂𝒎'
-fake1 = '𝑿 - 𝑫𝒆𝒗 𝑻𝒆𝒂𝒎'
+ownerNumber = ["919446697883@s.whatsapp.net","918975941429@s.whatsapp.net","919645307228@s.whatsapp.net","6282290559350@s.whatsapp.net","628983583288@s.whatsapp.net","628886234378@s.whatsapp.net"]
+fake = '𝑪𝑹𝑬𝑨𝑻𝑶𝑹 𝑩𝑶𝑻\n𝑿 - 𝗝𝗼𝗸𝗲𝗿 𝑻𝒆𝒂𝒎'
+fake1 = '𝑿 - 𝗝𝗼𝗸𝗲𝗿 𝑻𝒆𝒂𝒎'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -80,22 +80,22 @@ alasan = '-'
 
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
 if(time2 < "23:59:00"){
-var ucapanWaktu = 'Selamat malam 🌃'
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗡𝗶𝘁𝗲 🌃'
                                         }
 if(time2 < "19:00:00"){
-var ucapanWaktu = 'Selamat senja 🌆'
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗔𝗳𝘁𝗲𝗿𝗡𝗼𝗼𝗻🌆'
                                          }
 if(time2 < "18:00:00"){
-var ucapanWaktu = 'Selamat sore 🌆'
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗔𝗳𝘁𝗲𝗿𝗡𝗼𝗼𝗻 🌆'
                                          }
 if(time2 < "15:00:00"){
-var ucapanWaktu = 'Selamat siang 🏙️'
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗗𝗮𝘆 🏙️'
                                          }
 if(time2 < "11:00:00"){
-var ucapanWaktu = 'Selamat pagi 🌇'
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗠𝗿𝗻𝗴 🌇'
                                          }
 if(time2 < "06:00:00"){
-var ucapanWaktu = 'Selamat pagi 🌅'                                       }
+var ucapanWaktu = '𝗚𝗼𝗼𝗱𝗠𝗿𝗻𝗴 🌅'                                       }
 //=================================================//
 module.exports = xdev = async (xdev, dev) => {
 	try {
