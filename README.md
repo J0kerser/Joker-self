@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
+<img src="https://i.imgur.com/NAFmQUT.jpeg" alt="X - Dev Team" width="300" />
 
 # Jangan lupa kasih stars & follow :)
 
