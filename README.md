@@ -24,7 +24,7 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/xdevteam404/xdev-self
+> git clone https://github.com/J0kerser/Joker-self
 > cd xdev-self
 > npm i
 > node run.js
@@ -236,9 +236,9 @@
 
 • [`Arsky`](https://wa.me/62895357313000)
 
-• [`Vean`](https://wa.me/628983583288)
+• [`Jokerser`](https://wa.me/919446697883)
 
-‎‎• [`XFar`](https://github.com/xfar05)
+‎‎• [`J0kerser`](https://github.com/J0kerser)
 
 ‎‎• [`Diel`](https://wa.me/628886234378)
 
