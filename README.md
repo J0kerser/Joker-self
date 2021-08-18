@@ -25,7 +25,7 @@
 > pkg install ffmpeg
 > pkg install libwebp
 > git clone https://github.com/J0kerser/Joker-self
-> cd xdev-self
+> cd Joker-self
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
